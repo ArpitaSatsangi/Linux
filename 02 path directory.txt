@@ -1,0 +1,8 @@
+
+arpita-satsangi@DESKTOP-NHSM9BG:~$ echo hello, WOrld!
+hello, WOrld!
+arpita-satsangi@DESKTOP-NHSM9BG:~$ echo hI, this is a human.
+hI, this is a human.
+arpita-satsangi@DESKTOP-NHSM9BG:~$ pwd
+/home/arpita-satsangi
+
