@@ -1,0 +1,20 @@
+arpita-satsangi@DESKTOP-NHSM9BG:~$ ls #list
+
+arpita-satsangi@DESKTOP-NHSM9BG:~$ ls -a #list all including hidden files
+.  ..  .bash_history  .bash_logout  .bashrc  .cache  .lesshst  .motd_shown  .profile  .viminfo
+
+arpita-satsangi@DESKTOP-NHSM9BG:~$ ls -l #list long i.e. show deatils
+total 0
+
+arpita-satsangi@DESKTOP-NHSM9BG:~$ ls -la #list long i.e. show deatils even of hidden files
+total 36
+drwxr-x--- 3 arpita-satsangi arpita-satsangi 4096 Feb 21 18:00 .
+drwxr-xr-x 3 root            root            4096 Feb 19 21:08 ..
+-rw------- 1 arpita-satsangi arpita-satsangi  160 Feb 20 13:09 .bash_history
+-rw-r--r-- 1 arpita-satsangi arpita-satsangi  220 Feb 19 21:08 .bash_logout
+-rw-r--r-- 1 arpita-satsangi arpita-satsangi 3771 Feb 19 21:08 .bashrc
+drwx------ 2 arpita-satsangi arpita-satsangi 4096 Feb 19 21:10 .cache
+-rw------- 1 arpita-satsangi arpita-satsangi   20 Feb 19 21:19 .lesshst
+-rw-r--r-- 1 arpita-satsangi arpita-satsangi    0 Feb 21 17:48 .motd_shown
+-rw-r--r-- 1 arpita-satsangi arpita-satsangi  807 Feb 19 21:08 .profile
+-rw------- 1 arpita-satsangi arpita-satsangi 2472 Feb 21 18:00 .viminfo

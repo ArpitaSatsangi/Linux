@@ -1,0 +1,7 @@
+
+arpita-satsangi@DESKTOP-NHSM9BG:~$ cd as/
+
+arpita-satsangi@DESKTOP-NHSM9BG:~/as$ cat a.txt
+hey, this is Arpita!!
+
+arpita-satsangi@DESKTOP-NHSM9BG:~/as$ cat b.txt #no output

@@ -1,0 +1,195 @@
+
+arpita-satsangi@DESKTOP-NHSM9BG:~/as$ history
+    1  pwd
+    2  ls
+    3  vim text.html
+    4  ls
+    5  pwd
+    6  cd /
+    7  ls
+    8  cd ~
+    9  ls
+   10  man sudo_root
+   11  ls
+   12  echo hello, WOrld!
+   13  echo hI, this is a human.
+   14  pwd
+   15  ls
+   16  ls text.html
+   17  ls text
+   18  lstext.html
+   19  cd text.html
+   20  pwd
+   21  ls
+   22  rm text.html
+   23  ls
+   24  cd code/
+   25  cd -
+   26  ls -a
+   27  ls .viminfo
+   28  vim .bash
+   29  vim .BASHRC
+   30  G
+   31  fg
+   32  vim .bashrc
+   33  cd .bas
+   34  cd ~
+   35  ls
+   36  ls -a
+   37  ls
+   38  ls -a
+   39  ls -l
+   40  ls -la
+   41  #comment
+   42  cd #comment
+   43  ls #list
+   44  ls -a #list all
+   45  mkdir as
+   46  ls
+   47  cd as/
+   48  touch a.txt
+   49  ls
+   50  #alternate way
+   51  cd ..
+   52  touch as/b.txt
+   53  ls as/
+   54  ls /
+   55  file a.txt
+   56  ls as/
+   57  cd as/
+   58  file a.txt
+   59  gedit a.txt
+   60  sudo snap install gedit  # version 46.1'
+   61  ls
+   62  cd snap/
+   63  ls
+   64  cd as/
+   65  cd ..
+   66  cd as/
+   67  file a.txt
+   68  gedit a.txt
+   69  file a.txt
+   70  cd /
+   71  cd..
+   72  cd ..
+   73  ls
+   74  ls -a
+   75  ls as/
+   76  cd .
+   77  ls
+   78  ls -a
+   79  cd a
+   80  cd as/
+   81  ls
+   82  ls -a
+   83  cd .
+   84  cd /
+   85  cd ..
+   86  cd -
+   87  cd ~
+   88  cat a.txt
+   89  cd as/
+   90  cat a.txt
+   91  cat b.txt
+   92  history
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

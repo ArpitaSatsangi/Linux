@@ -1,0 +1,27 @@
+arpita-satsangi@DESKTOP-NHSM9BG:~$ ls
+as  snap
+
+arpita-satsangi@DESKTOP-NHSM9BG:~$ ls -a
+.              .cache                     .viminfo
+..             .lesshst                   as
+.bash_history  .motd_shown                snap
+.bash_logout   .profile
+.bashrc        .sudo_as_admin_successful
+
+arpita-satsangi@DESKTOP-NHSM9BG:~$ cd as/
+
+arpita-satsangi@DESKTOP-NHSM9BG:~/as$ ls
+a.txt  b.txt
+
+arpita-satsangi@DESKTOP-NHSM9BG:~/as$ ls -a
+.  ..  a.txt  b.txt
+
+arpita-satsangi@DESKTOP-NHSM9BG:~/as$ cd .
+
+arpita-satsangi@DESKTOP-NHSM9BG:~/as$ cd /
+
+arpita-satsangi@DESKTOP-NHSM9BG:/$ cd ..
+
+arpita-satsangi@DESKTOP-NHSM9BG:/$ cd -
+/
+arpita-satsangi@DESKTOP-NHSM9BG:/$ #end

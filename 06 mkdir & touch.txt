@@ -1,0 +1,25 @@
+arpita-satsangi@DESKTOP-NHSM9BG:~$ #comment
+
+arpita-satsangi@DESKTOP-NHSM9BG:~$ mkdir as
+
+arpita-satsangi@DESKTOP-NHSM9BG:~$ ls
+as
+
+arpita-satsangi@DESKTOP-NHSM9BG:~$ cd as/
+
+arpita-satsangi@DESKTOP-NHSM9BG:~/as$ touch a.txt
+
+arpita-satsangi@DESKTOP-NHSM9BG:~/as$ ls
+a.txt
+
+
+
+arpita-satsangi@DESKTOP-NHSM9BG:~/as$ #alternate way
+
+arpita-satsangi@DESKTOP-NHSM9BG:~/as$ cd ..
+
+arpita-satsangi@DESKTOP-NHSM9BG:~$ touch as/b.txt
+
+arpita-satsangi@DESKTOP-NHSM9BG:~$ ls as/
+a.txt  b.txt
+
