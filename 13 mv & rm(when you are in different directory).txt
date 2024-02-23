@@ -1,0 +1,51 @@
+arpita-satsangi@DESKTOP-NHSM9BG:~$ ls
+as  snap
+
+arpita-satsangi@DESKTOP-NHSM9BG:~$ cd snap/
+
+arpita-satsangi@DESKTOP-NHSM9BG:~/snap$ ls
+gedit
+
+arpita-satsangi@DESKTOP-NHSM9BG:~/snap$ mv ~/as/z.txt ~
+gedit
+
+arpita-satsangi@DESKTOP-NHSM9BG:~/snap$ mv ~/as/z.txt ~/ #no need to be in the directory to move things
+
+arpita-satsangi@DESKTOP-NHSM9BG:~/snap$ ls
+gedit
+
+arpita-satsangi@DESKTOP-NHSM9BG:~/snap$ cd ~
+
+arpita-satsangi@DESKTOP-NHSM9BG:~$ ls
+as  snap  z.txt
+
+arpita-satsangi@DESKTOP-NHSM9BG:~$ cd as/
+
+arpita-satsangi@DESKTOP-NHSM9BG:~/as$ ls
+a.txt  as  b.txt
+
+
+
+
+
+
+
+
+arpita-satsangi@DESKTOP-NHSM9BG:~$ ls
+as  snap  z.txt
+
+arpita-satsangi@DESKTOP-NHSM9BG:~$ cd as/
+
+arpita-satsangi@DESKTOP-NHSM9BG:~/as$ ls
+a.txt  as  b.txt
+
+arpita-satsangi@DESKTOP-NHSM9BG:~/as$ rm ~/z.txt
+
+arpita-satsangi@DESKTOP-NHSM9BG:~/as$ ls ~
+as  snap
+
+arpita-satsangi@DESKTOP-NHSM9BG:~/as$
+
+
+
+

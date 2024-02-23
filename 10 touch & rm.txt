@@ -1,0 +1,14 @@
+arpita-satsangi@DESKTOP-NHSM9BG:~$ ls
+as  snap  z.txt
+
+arpita-satsangi@DESKTOP-NHSM9BG:~$ touch test
+
+arpita-satsangi@DESKTOP-NHSM9BG:~$ ls
+as  snap  test  z.txt
+
+arpita-satsangi@DESKTOP-NHSM9BG:~$ rm test
+
+arpita-satsangi@DESKTOP-NHSM9BG:~$ ls
+as  snap  z.txt
+
+arpita-satsangi@DESKTOP-NHSM9BG:~$
