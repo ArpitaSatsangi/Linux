@@ -1,0 +1,5 @@
+arpita-satsangi@DESKTOP-NHSM9BG:~$ find ~ -type d -name testing2
+/home/arpita-satsangi/camp/testing/testing2
+
+arpita-satsangi@DESKTOP-NHSM9BG:~$
+

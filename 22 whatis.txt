@@ -1,0 +1,8 @@
+arpita-satsangi@DESKTOP-NHSM9BG:~$ whatis ls
+ls (1)                         - list directory contents
+
+arpita-satsangi@DESKTOP-NHSM9BG:~$ whatis srted
+fved: nothing appropriate.
+
+
+

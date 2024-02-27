@@ -1,0 +1,15 @@
+arpita-satsangi@DESKTOP-NHSM9BG:~/as$
+arpita-satsangi@DESKTOP-NHSM9BG:~/as$ rm a.txt
+arpita-satsangi@DESKTOP-NHSM9BG:~/as$ rm b.txt
+arpita-satsangi@DESKTOP-NHSM9BG:~/as$ cd ..
+arpita-satsangi@DESKTOP-NHSM9BG:~$ ls as/
+as
+arpita-satsangi@DESKTOP-NHSM9BG:~/as$ cd ~/as/as/
+arpita-satsangi@DESKTOP-NHSM9BG:~/as/as$ ls
+arpita-satsangi@DESKTOP-NHSM9BG:~/as/as$ cd ..
+arpita-satsangi@DESKTOP-NHSM9BG:~/as$ rmdir as/
+arpita-satsangi@DESKTOP-NHSM9BG:~/as$ cd ..
+arpita-satsangi@DESKTOP-NHSM9BG:~$ rmdir as/
+arpita-satsangi@DESKTOP-NHSM9BG:~$ ls
+snap
+arpita-satsangi@DESKTOP-NHSM9BG:~$

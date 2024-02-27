@@ -1,0 +1,6 @@
+arpita-satsangi@DESKTOP-NHSM9BG:~/as$ cd ../snap/ #relative path
+arpita-satsangi@DESKTOP-NHSM9BG:~/snap$
+
+
+arpita-satsangi@DESKTOP-NHSM9BG:~/as$ cd ~/snap/ #absolute path
+arpita-satsangi@DESKTOP-NHSM9BG:~/snap$

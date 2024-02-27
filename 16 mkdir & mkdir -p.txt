@@ -1,0 +1,15 @@
+
+arpita-satsangi@DESKTOP-NHSM9BG:~$ mkdir as
+arpita-satsangi@DESKTOP-NHSM9BG:~$ cd as/
+arpita-satsangi@DESKTOP-NHSM9BG:~/as$ mkdir testing/
+arpita-satsangi@DESKTOP-NHSM9BG:~/as$ cd testing/
+arpita-satsangi@DESKTOP-NHSM9BG:~/as/testing$
+
+
+
+
+arpita-satsangi@DESKTOP-NHSM9BG:~$
+arpita-satsangi@DESKTOP-NHSM9BG:~$ mkdir -p software/automation
+arpita-satsangi@DESKTOP-NHSM9BG:~$ cd software/automation/
+arpita-satsangi@DESKTOP-NHSM9BG:~/software/automation$
+

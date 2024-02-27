@@ -1,0 +1,17 @@
+arpita-satsangi@DESKTOP-NHSM9BG:~$ ls
+snap  software
+arpita-satsangi@DESKTOP-NHSM9BG:~$ mkdir as
+arpita-satsangi@DESKTOP-NHSM9BG:~$ touch as/a.txt as/b.txt as/c.txt
+arpita-satsangi@DESKTOP-NHSM9BG:~$ ls as/
+a.txt  b.txt  c.txt
+
+
+
+
+
+arpita-satsangi@DESKTOP-NHSM9BG:~$ rm -rv as/
+removed 'as/b.txt'
+removed 'as/a.txt'
+removed 'as/c.txt'
+removed directory 'as/'
+arpita-satsangi@DESKTOP-NHSM9BG:~$

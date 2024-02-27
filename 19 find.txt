@@ -1,0 +1,21 @@
+arpita-satsangi@DESKTOP-NHSM9BG:~$
+arpita-satsangi@DESKTOP-NHSM9BG:~$ find ~ -name a.txt
+/home/arpita-satsangi/camp/testing/testing2/a.txt
+
+
+
+
+
+
+arpita-satsangi@DESKTOP-NHSM9BG:~$ find ~ -name a.*
+/home/arpita-satsangi/camp/testing/testing2/a.txt
+
+
+
+
+
+
+arpita-satsangi@DESKTOP-NHSM9BG:~$ find ~ -name *.txt
+/home/arpita-satsangi/software/b.txt
+/home/arpita-satsangi/camp/testing/testing2/a.txt
+arpita-satsangi@DESKTOP-NHSM9BG:~$

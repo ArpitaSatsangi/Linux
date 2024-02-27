@@ -1,0 +1,15 @@
+arpita-satsangi@DESKTOP-NHSM9BG:~/as$
+arpita-satsangi@DESKTOP-NHSM9BG:~/as$ ls
+a.txt  testing
+arpita-satsangi@DESKTOP-NHSM9BG:~/as$ cd ..
+arpita-satsangi@DESKTOP-NHSM9BG:~$ rmdir as/
+rmdir: failed to remove 'as/': Directory not empty
+
+
+
+
+
+arpita-satsangi@DESKTOP-NHSM9BG:~$ rm -r as/
+arpita-satsangi@DESKTOP-NHSM9BG:~$ ls
+snap  software
+arpita-satsangi@DESKTOP-NHSM9BG:~$
