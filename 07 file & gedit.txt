@@ -1,0 +1,3 @@
+touch test.py
+
+gedit test.py #open up a new window, now just edit things in it
