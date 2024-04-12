@@ -1,0 +1,11 @@
+Before we start moving the files around, let's take a look in one of them to see what it contains. We'll look at the cobras file to make sure it has the proper information in it.
+
+The "more" command is used to view the contents of a file. For example, to see the contents of the "cobras" file, you would type
+
+                        more cobras
+
+It is called "more" because after it has displayed a page of text, it pauses and puts "-- More --" at the bottom of the screen to let you know that there is more text yet to be shown. To see the next page of text, you just hit the spacebar.
+
+
+
+
